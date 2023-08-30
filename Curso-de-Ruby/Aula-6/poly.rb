@@ -6,6 +6,7 @@ end
 
 class Teclado < Instrumento
 end
+
 class Lapis < Instrumento
     def escrever
         puts 'Escrevendo à lapis'

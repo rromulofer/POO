@@ -20,6 +20,4 @@ jogadordefutebol = Jogadordefutebol.new
 maratonista  = Maratonista.new
 
 jogadordefutebol.correr
-
 maratonista.competir
-
