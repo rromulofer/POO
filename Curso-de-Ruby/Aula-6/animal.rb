@@ -21,6 +21,7 @@ class Gato < Animal
 end
 
 cachorro = Cachorro.new
-cachorro.pular
+cachorro.pular #chamada de método, objeto.método
 cachorro.dormir
 cachorro.latir
+
