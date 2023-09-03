@@ -12,7 +12,10 @@ class Teclado < Instrumento
     end
 end
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> 275f9ded8c0c507c518a589e07f8155d7fe0f427
 class Lapis < Instrumento
     def escrever
         puts 'Escrevendo à lapis'
