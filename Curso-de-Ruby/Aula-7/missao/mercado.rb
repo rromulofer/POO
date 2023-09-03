@@ -1,5 +1,5 @@
 class Mercado
-    def init(produto)
+    def initialize(produto)
         @produto = produto
     end
 
@@ -7,3 +7,4 @@ class Mercado
         puts "Você comprou o produto #{@produto.nome} no valor de #{@produto.preco}"
     end
 end
+

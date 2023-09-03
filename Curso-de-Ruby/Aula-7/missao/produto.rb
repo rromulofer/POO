@@ -1,3 +1,3 @@
 class Produto
-    atrib: :nome, preco
+    attr_accessor :nome, :preco  
 end
