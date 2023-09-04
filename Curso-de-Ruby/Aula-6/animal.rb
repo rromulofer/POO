@@ -25,4 +25,3 @@ cachorro = Cachorro.new
 cachorro.pular # pular não é um método da classe cachorro, porém herda de animal -  #chamada de método, objeto.método
 cachorro.dormir # dormir não é um método da classe cachorro, porém herda de animal
 cachorro.latir
-
