@@ -54,7 +54,6 @@ class JogadorDeFutebol
   end
   
   # Exemplo de uso do sistema:
-  
   time1 = Time.new("Time A")
   time2 = Time.new("Time B")
   
